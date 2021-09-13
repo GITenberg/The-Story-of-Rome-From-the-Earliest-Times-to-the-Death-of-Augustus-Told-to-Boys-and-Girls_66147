@@ -1,0 +1,46 @@
+_repo: The-Story-of-Rome-From-the-Earliest-Times-to-the-Death-of-Augustus-Told-to-Boys-and-Girls_66147
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Rainey, W. (William)
+    aliases:
+    - Rainey, W.
+    - Rainey, William
+    - Rainey, H. W. (H. William)
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '9704'
+    url: http://www.gutenberg.org/2009/agents/9704
+    wikipedia: https://en.wikipedia.org/wiki/William_Rainey
+  - agent_name: Woodroffe, Paul
+    birthdate: 1875
+    deathdate: 1954
+    gutenberg_agent_id: '53654'
+    url: http://www.gutenberg.org/2009/agents/53654
+    wikipedia: https://en.wikipedia.org/wiki/Paul_Woodroffe
+  - agent_name: Heath, Dudley
+    alias: Heath, Ernest Dudley
+    birthdate: 1867
+    deathdate: 1945
+    gutenberg_agent_id: '53655'
+    url: http://www.gutenberg.org/2009/agents/53655
+creator:
+  author:
+    agent_name: Macgregor, Mary
+    gutenberg_agent_id: '53586'
+    url: http://www.gutenberg.org/2009/agents/53586
+description: ''
+gutenberg_issued: '2021-08-26'
+identifiers:
+  gutenberg: '66147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Rome -- History -- Juvenile literature'
+- GITenberg
+title: The Story of Rome, From the Earliest Times to the Death of Augustus, Told to
+  Boys and Girls
+url: http://www.gutenberg.org/ebooks/66147
