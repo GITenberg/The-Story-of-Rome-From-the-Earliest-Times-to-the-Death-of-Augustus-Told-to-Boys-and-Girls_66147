@@ -1,5 +1,5 @@
 _repo: The-Story-of-Rome-From-the-Earliest-Times-to-the-Death-of-Augustus-Told-to-Boys-and-Girls_66147
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Rainey, W. (William)
@@ -24,12 +24,17 @@ contributor:
     deathdate: 1945
     gutenberg_agent_id: '53655'
     url: http://www.gutenberg.org/2009/agents/53655
+covers:
+- cover_type: archival
+  image_path: 66147-h/images/cover.jpg
 creator:
   author:
     agent_name: Macgregor, Mary
     gutenberg_agent_id: '53586'
     url: http://www.gutenberg.org/2009/agents/53586
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66147#The-Story-of-Rome-From-the-Earliest-Times-to-the-Death-of-Augustus-Told-to-Boys-and-Girls
 gutenberg_issued: '2021-08-26'
 identifiers:
   gutenberg: '66147'
